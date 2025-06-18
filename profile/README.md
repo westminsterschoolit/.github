@@ -1,5 +1,6 @@
 # Westminster School Public Profile
 
+![A view of Westminster school](background_two.jpg)
 This repository serves as the public profile for Westminster School on GitHub. It aims to provide an accessible overview of the school's digital presence, projects, and contributions to the open-source community.
 
 ---
